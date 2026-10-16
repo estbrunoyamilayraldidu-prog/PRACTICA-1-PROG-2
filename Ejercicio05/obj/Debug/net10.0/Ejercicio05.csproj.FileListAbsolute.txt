@@ -1,0 +1,14 @@
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\bin\Debug\net10.0\Ejercicio05.exe
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\bin\Debug\net10.0\Ejercicio05.deps.json
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\bin\Debug\net10.0\Ejercicio05.runtimeconfig.json
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\bin\Debug\net10.0\Ejercicio05.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\bin\Debug\net10.0\Ejercicio05.pdb
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.AssemblyInfoInputs.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.AssemblyInfo.cs
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\refint\Ejercicio05.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.pdb
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\Ejercicio05.genruntimeconfig.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio05\obj\Debug\net10.0\ref\Ejercicio05.dll
