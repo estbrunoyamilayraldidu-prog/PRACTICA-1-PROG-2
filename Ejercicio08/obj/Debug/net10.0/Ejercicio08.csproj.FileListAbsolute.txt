@@ -1,0 +1,14 @@
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\bin\Debug\net10.0\Ejercicio08.exe
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\bin\Debug\net10.0\Ejercicio08.deps.json
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\bin\Debug\net10.0\Ejercicio08.runtimeconfig.json
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\bin\Debug\net10.0\Ejercicio08.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\bin\Debug\net10.0\Ejercicio08.pdb
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.AssemblyInfo.cs
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\refint\Ejercicio08.dll
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.pdb
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\Ejercicio08.genruntimeconfig.cache
+C:\Users\LEONO\Desktop\EJERCICIOS PROG\Ejercicio08\obj\Debug\net10.0\ref\Ejercicio08.dll
